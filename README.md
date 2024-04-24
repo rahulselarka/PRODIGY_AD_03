@@ -9,6 +9,29 @@ The Flutter Stopwatch App is a mobile application developed using Flutter, desig
 - **Simple User Interface**: Offers an intuitive and user-friendly interface for easy interaction.
 - **Accurate Time Measurement**: Ensures accurate time measurement for various timing needs.
 
+## Installation
+
+To set up the Flutter Stopwatch App:
+
+1. Clone the repository:
+
+   ```
+   git clone https://github.com/your-username/flutter-stopwatch-app.git
+   ```
+
+2. Navigate to the project directory.
+
+3. Run the following command to get the required dependencies:
+
+   ```
+   flutter pub get
+   ```
+
+4. Build and run the application on your preferred device/emulator using:
+
+   ```
+   flutter run
+   ```
 
 ## Usage
 
